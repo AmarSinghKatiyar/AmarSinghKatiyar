@@ -88,5 +88,36 @@
 - 📄 [Resume Builder](https://github.com/AmarSinghKatiyar/Resume-Builder) – Resume Generator with live preview (HTML, CSS, JS)  
 
 ---
+<p align="center">
+<a href="https://diligentcreator.ml/u/admin" target="_blank">
 
-![footer](https://user-images.githubusercontent.com/121122397/216615077-3e6d2942-32f8-4c4f-a09e-dd3a4617e4a2.gif)
+<p align="center" style="position: relative;">
+  <a href="https://github.com/arifakhtar51/arifakhtar51/raw/main/Amar_Singh_Katiyar_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat" alt="Resume"/>
+  </a>
+  <br>
+  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/profile-cloud.png" width="100%" />
+</p>
+
+ 
+![](https://github.com/AmarSinghKatiyar/AmarSinghKatiyar/blob/main/profile-cloud.png)
+  
+</a>
+</p>
+
+<center>
+<p align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&color=F37E21&width=1080&lines=Thank+You+for+Visiting+And+Happy+Coding..." alt="Typing SVG" /></a>
+
+ 
+</p>
+</center>
+
+<p style="color: golden;" align="right" >Last Update on: 26 Aug 2024 </p>
+
+<a href="https://github.com/AmarSinghKatiyar/AmarSinghKatiyar/blob/main/Amar_Singh_Katiyar_resume.pdf">
+
+![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer3.png)
+
+</a>
