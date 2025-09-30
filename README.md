@@ -29,6 +29,8 @@
 
 ### Connect with me  
 
+<img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
+
 <p align="left">
 <a href="https://in.linkedin.com/in/amar-singh-katiyar-38522b2a9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://leetcode.com/AMAR_14" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
