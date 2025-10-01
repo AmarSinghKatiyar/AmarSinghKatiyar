@@ -12,7 +12,7 @@
 
 <hr/>
 
-<img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
+<img align="right" alt="coding" width="250" src="https://github.com/AmarSinghKatiyar/AmarSinghKatiyar/blob/main/image/keep_coding.gif">
 
 ### I am a Computer Science Student & Developer
 
@@ -29,7 +29,7 @@
 
 ### Connect with me  
 
-<img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
+<img width="26" src="https://github.com/AmarSinghKatiyar/AmarSinghKatiyar/blob/main/image/like.png">
 
 <p align="left">
 <a href="https://in.linkedin.com/in/amar-singh-katiyar-38522b2a9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -92,15 +92,12 @@
 <a href="https://diligentcreator.ml/u/admin" target="_blank">
 
 <p align="center" style="position: relative;">
-  <a href="https://github.com/arifakhtar51/arifakhtar51/raw/main/Amar_Singh_Katiyar_Resume.pdf" target="_blank">
+  <br>
+  <img src="https://github.com/AmarSinghKatiyar/AmarSinghKatiyar/blob/main/image/profile-cloud1.png" width="100%" />
+  <a href="https://github.com/AmarSinghKatiyar/AmarSinghKatiyar/blob/main/image/Amar_Singh_Katiyar_resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat" alt="Resume"/>
   </a>
-  <br>
-  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/profile-cloud.png" width="100%" />
 </p>
-
- 
-![](https://github.com/AmarSinghKatiyar/AmarSinghKatiyar/blob/main/profile-cloud.png)
   
 </a>
 </p>
@@ -114,10 +111,9 @@
 </p>
 </center>
 
-<p style="color: golden;" align="right" >Last Update on: 26 Aug 2024 </p>
+<p style="color: golden;" align="right" >Last Update on: 01-10-2025 </p>
 
-<a href="https://github.com/AmarSinghKatiyar/AmarSinghKatiyar/blob/main/Amar_Singh_Katiyar_resume.pdf">
-
-![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer3.png)
+![](https://github.com/AmarSinghKatiyar/AmarSinghKatiyar/blob/main/image/footer3.png)
 
 </a>
+<!--Created By Amar Singh Katiyar - linkedin: https://www.linkedin.com/in/amar-singh-katiyar-38522b2a9/ Github: https://github.com/AmarSinghKatiyar ----->
