@@ -20,7 +20,7 @@
 - 🌱 Currently learning **Web Development, Machine Learning & DSA** <br>
 - ✍️ Creating **tech content, presentations & learning resources** <br>
 - 🙌 Interested in collaborating on **Web Apps + Real-Time Systems** <br>
-- 🥅 2026 Goal: **Get placed in a top product-based company 🚀** <br>
+- 🥅 2027 Goal: **Get placed in a top product-based company 🚀** <br>
 - 🤝 Open to contributing to **open-source projects** <br>
 
 🕵 Take a look at my repositories and let's get in touch!<br>
