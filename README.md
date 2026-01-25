@@ -36,6 +36,9 @@
 <a href="https://www.geeksforgeeks.org/profile/amarsinghkr10o" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/amarsinghkr10o" height="30" width="40" target="_blank"/></a>
 <a href="https://leetcode.com/u/AMAR_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/AMAR_14/" height="30" width="40" /></a>
 </p>
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AmarSinghKatiyar.AmarSinghKatiyar" alt="Profile Visitors" />
+</p>
 
 <hr/>
 
