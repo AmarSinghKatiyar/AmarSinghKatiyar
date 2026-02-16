@@ -82,14 +82,16 @@
 
 ### GitHub Stats:
 
-<br>
 <img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarSinghKatiyar&layout=compact&theme=blue-green" />
+<img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=AmarSinghKatiyar&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide_border=true" alt="Top Languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarSinghKatiyar&layout=compact&theme=blue-green" /> -->
+
 
 <!-- Alternate Streak Stats -->
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AmarSinghKatiyar&theme=tokyonight_duo)](https://git.io/streak-stats)
-
-
+<!--[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AmarSinghKatiyar&theme=tokyonight_duo)](https://git.io/streak-stats)-->
+<img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=AmarSinghKatiyar&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+<div align="center">
+</div>
 <table>
 <tr>
   <!-- Activity Graph -->
@@ -99,7 +101,7 @@
 
   <!-- GitHub Stats -->
   <td>
-<img src="https://github-readme-stats.vercel.app/api?username=AmarSinghKatiyar&show_icons=true&include_all_commits=true&theme=midnight-purple" width="500px" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=AmarSinghKatiyar&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   </td>
 </tr>
 </table>
