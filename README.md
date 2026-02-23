@@ -80,6 +80,17 @@
 
 <hr/>
 
+### 👨‍💻 Competitive Coding Profiles
+
+<div align="start">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://leetcard.jacoblin.cool/AMAR_14?theme=unicorn&ext=contest" width="35%" />
+    <!-- <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Amar_14" width="35%" /> -->
+  </div>
+</div>
+
+<hr>
+
 ### GitHub Stats:
 
 <img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
