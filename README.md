@@ -131,7 +131,7 @@
   
 </a>
 </p>
-<p align="center"><a href="https://github.com/AmarSinghKatiyar/AmarSinghKatiyar/blob/main/images%20and%20pdf/Amar_Singh_Katiyar_resume1.pdf" download><img src="https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge&logo=adobeacrobat" alt="Download Resume" /></a></p>
+<p align="center"><a href="https://github.com/AmarSinghKatiyar/AmarSinghKatiyar/blob/main/images%20and%20pdf/Amar_Singh_Katiyar_resume.pdf" download><img src="https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge&logo=adobeacrobat" alt="Download Resume" /></a></p>
 <a href="https://www.linkedin.com/in/amar-singh-katiyar/"><img src="https://raw.githubusercontent.com/AmarSinghKatiyar/AmarSinghKatiyar/main/images%20and%20pdf/footer3.png" alt="LinkedIn Footer" /></a>
 <p style="color: golden;" align="right">Last Update on: 25 Jan 2026</p>
 <!-- Created By Amar Singh Katiyar - linkedin: https://www.linkedin.com/in/amar-singh-katiyar/ Github: https://github.com/AmarSinghKatiyar -->
