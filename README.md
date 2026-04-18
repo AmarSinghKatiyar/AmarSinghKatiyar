@@ -28,7 +28,7 @@
 <hr/>
 
 ### Connect with me
-<img width="40" src="https://github.com/AmarSinghKatiyar/AmarSinghKatiyar/blob/main/images%20and%20pdf/like.png">
+<!-- <img width="40" src="https://github.com/AmarSinghKatiyar/AmarSinghKatiyar/blob/main/images%20and%20pdf/like.png">
 <p align="left">
 <a href="https://www.linkedin.com/in/amar-singh-katiyar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amar-singh-katiyar/" height="30" width="40" /></a>
 <a href="https://amarsinghkatiyar.github.io/PORTFOLIO/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/portfolio.png" height="30" width="40" /></a>
@@ -38,7 +38,15 @@
 </p>
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AmarSinghKatiyar.AmarSinghKatiyar" alt="Profile Visitors" />
+</p> -->
+<p align="left">
+<a href="https://www.linkedin.com/in/amar-singh-katiyar/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="26"></a>&nbsp;
+<a href="https://amarsinghkatiyar.github.io/PORTFOLIO/" target="_blank"><img src="https://img.icons8.com/color/48/portfolio.png" height="26"></a>&nbsp;
+<a href="https://www.hackerrank.com/profile/amarsinghkatiyar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="26"></a>&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/amarsinghkr10o" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="26"></a>&nbsp;
+<a href="https://leetcode.com/u/AMAR_14/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="26"></a>
 </p>
+
 
 <hr/>
 
