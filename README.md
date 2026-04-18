@@ -41,7 +41,7 @@
 </p> -->
 <p align="left">
 <a href="https://www.linkedin.com/in/amar-singh-katiyar/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="26"></a>&nbsp;
-<a href="https://amarsinghkatiyar.github.io/PORTFOLIO/" target="_blank"><img src="https://img.icons8.com/color/48/portfolio.png" height="26"></a>&nbsp;
+<a href="https://amar-singh-katiyar-portfolio.vercel.app/" target="_blank"><img src="https://img.icons8.com/color/48/portfolio.png" height="26"></a>&nbsp;
 <a href="https://www.hackerrank.com/profile/amarsinghkatiyar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="26"></a>&nbsp;
 <a href="https://www.geeksforgeeks.org/profile/amarsinghkr10o" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="26"></a>&nbsp;
 <a href="https://leetcode.com/u/AMAR_14/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="26"></a>
